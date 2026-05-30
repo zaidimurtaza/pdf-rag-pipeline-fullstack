@@ -1,9 +1,5 @@
 # Sensiwise — AI-Powered Document Intelligence Assistant
 
-![Screenshot](rag_architecture_flow.png)
-
---- 
-
 ![Screenshot](rag_architecture_flow.svg)
 
 Upload one or more **PDF documents** and ask questions about their content through a
