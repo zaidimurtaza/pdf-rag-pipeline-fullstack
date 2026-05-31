@@ -147,12 +147,12 @@ Open **http://localhost:5173**, upload a PDF, and start asking.
 - Clean, professional chat UI with an upload area and document list.
 
 **Optional enhancements implemented**
-- ✅ **Multi-document querying** — ask across all docs or scope to selected ones.
-- ✅ **Conversation memory** — follow-up questions use recent turn history (per session); "New chat" resets it.
-- ✅ **Relevance/confidence score** surfaced per answer.
-- ✅ **Markdown-rendered answers** with highlighted citations.
-- ✅ **Logging** — structured server logs for ingest and query (latency, confidence).
-- ✅ **Graceful edge cases** — image-only PDFs and out-of-document questions are handled.
+-  **Multi-document querying** — ask across all docs or scope to selected ones.
+-  **Conversation memory** — follow-up questions use recent turn history (per session); "New chat" resets it.
+-  **Relevance/confidence score** surfaced per answer.
+-  **Markdown-rendered answers** with highlighted citations.
+-  **Logging** — structured server logs for ingest and query (latency, confidence).
+-  **Graceful edge cases** — image-only PDFs and out-of-document questions are handled.
 
 ---
 
