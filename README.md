@@ -12,6 +12,9 @@ to the exact document and page** used.
 (`gemini-2.5-flash` + `text-embedding-004`, 768-dim) · **PostgreSQL + pgvector** (schema `sensiwise`).
 
 ---
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/7f34bfbb-f758-4bc1-9a25-7c143c495471" />
+
+---
 
 ## Architecture
 
